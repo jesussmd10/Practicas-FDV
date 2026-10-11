@@ -1,7 +1,7 @@
 # Práctica 1: Control de Versiones con Git LFS en Unity
 
 
-## 📋 Descripción y Requisitos de la Práctica
+## Descripción y Requisitos de la Práctica
 
 Esta práctica abarca los siguientes apartados técnicos:
 1. **Proyecto Unity y Objetos 3D:** Creación de un entorno 3D en Unity que incluye dos objetos geométricos.
@@ -11,13 +11,13 @@ Esta práctica abarca los siguientes apartados técnicos:
 
 ---
 
-## 🚀 Demostración en Vídeo / GIF Animado
+## Demostración en Vídeo / GIF Animado
 
 ![Demostración de la ejecución en Unity y Git LFS](Assets/Media/DemoFDV.gif)
 
 ---
 
-## 📸 Capturas de Pantalla del Proceso
+## Capturas de Pantalla del Proceso
 
 ### 1. Jerarquía de Unity con los objetos y el script asignado
 ![Jerarquía Unity](Assets/Media/Unity.png)
@@ -30,7 +30,7 @@ Esta práctica abarca los siguientes apartados técnicos:
 
 ---
 
-## ⚙️ Configuración del Fichero `.gitattributes` (Git LFS)
+## Configuración del Fichero `.gitattributes` (Git LFS)
 
 El fichero `.gitattributes` situado en la raíz del proyecto define las reglas de seguimiento de los archivos pesados:
 
