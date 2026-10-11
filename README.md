@@ -36,8 +36,7 @@ El fichero `.gitattributes` situado en la raíz del proyecto define las reglas d
 
 ```text
 # Git LFS Track Rules
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
-*.unitypackage filter=lfs diff=lfs merge=lfs -text
-*.gif filter=lfs diff=lfs merge=lfs -text
